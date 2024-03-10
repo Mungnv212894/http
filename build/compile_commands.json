@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/mung/Documents/Server_for_me/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/main.dir/main.cpp.o -c /home/mung/Documents/Server_for_me/main.cpp",
+  "file": "/home/mung/Documents/Server_for_me/main.cpp"
+},
+{
+  "directory": "/home/mung/Documents/Server_for_me/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/main.dir/lib/server.cpp.o -c /home/mung/Documents/Server_for_me/lib/server.cpp",
+  "file": "/home/mung/Documents/Server_for_me/lib/server.cpp"
+}
+]

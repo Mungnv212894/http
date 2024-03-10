@@ -1,0 +1,3 @@
+/home/mung/Documents/Server_for_me/build/CMakeFiles/main.dir
+/home/mung/Documents/Server_for_me/build/CMakeFiles/edit_cache.dir
+/home/mung/Documents/Server_for_me/build/CMakeFiles/rebuild_cache.dir
